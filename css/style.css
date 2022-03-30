@@ -1,0 +1,155 @@
+/* apply font style */
+*{
+    
+    font-family: 'Quicksand', sans-serif;
+    font-family: 'Roboto', sans-serif;
+
+}
+.centre{
+    margin: 50px 100px;
+    box-shadow: -2px -2px 2px 2px #b8b5b556;
+    box-shadow: 2px 2px -2px -2px #b8b5b556;
+
+    padding: 25px;
+}
+/* apply style to start class*/
+.start {  
+    background-color:rgb(212, 212, 212);
+    border: 3px solid  rgb(161, 161, 161);
+    font-size: 35px;
+    font-style: italic;
+    text-align: center;
+    
+}
+.start div h1 img{  
+    padding: 10px;
+}
+
+.intro{
+    background-color: rgb(110, 255, 243);
+    color:rgb(59, 1, 1);
+    font-style: italic; 
+    margin-top:10px; 
+    border:2px solid rgb(59, 58, 58);
+    padding: 10px 20px;
+}  
+.begin{
+    text-indent: 1%;
+} 
+.begin img{
+    padding: 5px 45px;
+}
+/* apply spaces to paragraph*/
+p{
+    text-indent: 5%;
+    line-height: 25px;
+    letter-spacing: 1px;
+}
+
+section h1{
+    text-indent: 1%;
+    padding:1% 2%;
+}
+
+.c1{
+    background-color:rgb(255, 46, 151);
+    border:2px solid rgb(104, 3, 45);
+    border:1% solid #4D4D4D;
+    padding: 10px 20px;
+    color: white;
+}
+
+.image1 {
+    position: relative;
+    left: 375px;
+    
+}
+
+
+.s0{
+    padding:30px;
+    background-color:rgb(80, 74, 74);
+    border: 2px solid rgb(15, 0, 29);
+    color: white;
+}
+.s0 img{
+    float:left;
+    margin-right: 20px;
+    padding: 15px 20px;
+}
+
+
+a:hover{
+    color: rgb(240, 220, 224);
+    font-size: 22px;
+}
+a:active{
+    color:rgb(245, 97, 29)
+}
+
+.c3{
+    background-color: rgb(2, 2, 80);
+    border: 5px solid rgb(0, 0, 0);
+    color: bisque;
+    padding: 10px 25px;
+}
+.c3 h3{
+     color: rgb(28, 245, 198);
+}
+
+.s1{
+    padding:30px;
+}
+.s1 img{
+    float:left;
+    background-color: rgb(130, 238, 202);
+    margin-right: 20px;
+}
+.prevent{
+    background-color: #379683;
+    border: 2px solid rgb(71, 40, 0);
+    padding:10px 25px;
+    line-height: 40px;
+}
+.vaccine{
+    background-color: #5CDB95;
+    border: 2px solid rgb(2, 51, 40);
+    padding:10px 25px;
+}
+table{
+    text-align:center;
+    width:100%;
+    background-color: #8bf8bc;
+    padding:5px;
+    margin: 3px;
+
+    border: 1px solid rgb(0, 0, 0);
+}
+thead td{
+    padding: 20px;
+    border: 2px solid black;
+    font-size: 20px;
+    background-color: rgb(158, 164, 170);
+}
+tbody td{
+    padding: 15px;
+    border: 2px solid black;
+    background-color: rgb(14, 189, 165);
+}
+.dos{
+    background-color: #8EE4AF;
+    border: 2px solid rgb(74, 109, 101);
+    padding:10px 25px;
+    line-height: 40px;
+}
+.dont{
+    background-color: #EDF5E1;
+    border: 2px solid rgb(131, 156, 151);
+    padding:10px 25px;
+    line-height: 40px;
+}
+footer{
+    text-align: center;
+}
+
+
